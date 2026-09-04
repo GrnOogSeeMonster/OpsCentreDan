@@ -1,0 +1,10 @@
+{
+  "id": "azure-evt-22",
+  "detail": {
+    "title": "Azure Monitor - App latency high",
+    "severity": "high",
+    "description": "Latency above target",
+    "environment": "production",
+    "service": "checkout-api"
+  }
+}

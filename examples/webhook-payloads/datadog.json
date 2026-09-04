@@ -1,0 +1,9 @@
+{
+  "title": "[Triggered] Checkout latency",
+  "body": {
+    "id": "dd-12345",
+    "alert_title": "Checkout API latency high",
+    "priority": "P2",
+    "tags": ["env:prod", "service:checkout-api"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aws-evt-1",
+  "detail": {
+    "alarmName": "RDSCPUCritical",
+    "stateValue": "ALARM",
+    "stateReason": "Threshold crossed",
+    "environment": "production",
+    "service": "orders-db"
+  }
+}

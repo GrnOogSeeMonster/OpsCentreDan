@@ -1,0 +1,8 @@
+{
+  "title": "CPU utilization critical",
+  "description": "checkout-api CPU > 95% for 10 minutes",
+  "severity": "critical",
+  "environment": "production",
+  "service": "checkout-api",
+  "tags": ["cpu", "slo", "checkout"]
+}

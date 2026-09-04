@@ -1,0 +1,10 @@
+{
+  "id": "gcp-evt-3",
+  "detail": {
+    "title": "GCP Monitoring - Error budget burn",
+    "severity": "critical",
+    "description": "Fast burn detected",
+    "environment": "production",
+    "service": "payments-api"
+  }
+}

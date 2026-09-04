@@ -1,0 +1,20 @@
+{
+  "receiver": "opscentredan",
+  "status": "firing",
+  "alerts": [
+    {
+      "status": "firing",
+      "labels": {
+        "alertname": "CheckoutLatencyHigh",
+        "severity": "critical",
+        "environment": "production",
+        "service": "checkout-api"
+      },
+      "annotations": {
+        "summary": "P95 latency above threshold",
+        "description": "Observed sustained latency increase"
+      },
+      "fingerprint": "prom-001"
+    }
+  ]
+}

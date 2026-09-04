@@ -1,0 +1,10 @@
+{
+  "title": "Grafana Alert: Checkout 5xx spike",
+  "message": "Error rate increased above 3%",
+  "state": "critical",
+  "ruleId": "grafana-rule-7",
+  "labels": {
+    "env": "production",
+    "service": "checkout-api"
+  }
+}
